@@ -1,8 +1,0 @@
-https://www.cloudsavvyit.com/4188/how-to-upgrade-or-resize-a-running-ec2-instance/ ---> to change instance type without bringing instance down
-
-<server>
-      <id>java-tomcat-maven-example</id>
-      <username>tomcat</username>
-      <password>tomcat</password>
-    </server>
-http://3.141.45.190:8080/ ---> harshith's jenkins id
