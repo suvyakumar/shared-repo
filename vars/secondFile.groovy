@@ -7,7 +7,7 @@ def call(String username = 'null', String designation = 'null' ) {
     }
     agent any 
     stages {
-      stage ("shared-library") {
+      stage ("shared-library1") {
         steps {
           echo "Bye $USER_NAME, nice to meet you !"
           echo "Designation: $DESG"
